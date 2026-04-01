@@ -113,7 +113,11 @@ http://127.0.0.1:5000/
 
 ## 📸 Screenshots
 
-> Add screenshots of your UI here to make your project more attractive.
+
+<img width="1920" height="1200" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/3288285e-05cd-44bb-a1ed-88d15849effb" />
+<img width="1920" height="1200" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/390091f6-34ae-4a54-85b1-43a9cf3f971f" />
+<img width="1920" height="1200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/274b8d2d-d8a5-419f-84b3-5c8b26e055ba" />
+<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/a8e119e9-133e-4396-8786-8e90286e72b1" />
 
 ---
 
